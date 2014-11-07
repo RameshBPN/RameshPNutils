@@ -1,0 +1,85 @@
+
+          Ramesh Botlagunta                                                                
+          Email- ID: ramesh.botlagunta@gmail.com
+          Mobile: +91-8861009071
+
+Professional Summary:
+
+	Having 6+ Years of IT experience in developing and maintaining Client/Server, Web based Application. 
+	Proven expertise in developing multi-tier web application projects using Salesforce.com (SFDC), Apex Programming Language, Visualforce Pages, Java/J2EE, Eclipse and Tomcat.
+	Experience in core java technologies.
+	Good Programming, Analytical and Trouble Shooting skills. 
+	Have experience in most aspects of SDLC. Participated in Requirement analysis, Use-Case writing, Designing, Database modeling, Preparing Technical Documents, Development, Testing, Deployment and Production support.
+	Track record of providing customer satisfaction and management of workload.
+	Good analytical abilities, quick grasping power zeal for learning new things.
+
+
+Professional Experience: 
+
+	Working as a Senior Engineer for Symphony Teleca, since Apr2011 to Till Date.      
+	Worked as a Software Engineer for Patni Computers, since Dec2007 to Mar2011.
+
+
+Educational Qualification:
+
+	B.Sc. Computers from Acharya Nagarjuna University in 2007
+
+
+Technical Skills:
+
+Frameworks/ Methodologies	 :	Salesforce.com.
+Programming	                          :	core Java, Apex(Salesforce).
+User Interface			 :	Visualforce , JavaScript , AJAX, JQuery, CSS,  JSP and  HTML.
+Servers			             : 	Apache Tomcat.  
+Operating Systems		  :	Windows Family.             
+IDE Tools			  :	Eclipse, Salesforce Environment, Force.com IDE, Net Beans.
+
+
+
+
+
+Symphony Teleca	                                 	                                    Since   Apr 2011
+Project 1: Data Migration- Energy Exchange-Customer Portal.
+Responsibilities:		
+	Responsible for gathering requirement from the Client.
+	Working on Apex, Visualforce and standard Salesforce functionality for developing Salesforce application.
+	Making full use of standard functionality such as SOQL’s, triggers, validation rules, Objects, profiles, users, workflows, reports, batch apex etc which is both effective and efficient.
+	Implemented Business logic based on the requirements.
+	Generating Test Cases with a minimum of 85% coverage.
+	Follow agile methodology.
+	Coordinating with Manager, Client, QA and other developers in a timely and efficient manner.
+	Keeping myself updated with latest changes and try to incorporate them to enhance the application.
+	Deployment of code between environments using ant script.
+
+Description: Fellon McCord is a Energy Management Company which generates its revenue by managing total Energy needs including electricity, natural gas, water, sewerage etc, of organizations by analyzing energy data including historical data. This process had been a manual process where energy analysts analyzed data using Microsoft Excel as the most complex tools used. 
+                    The project involved automating the whole process starting from extracting the data from database offering companies such as NISC and Entech who scans invoices and extract valuable info and provides access to that data by exposing some methods. Using Talend Open Studio this data is extracted and pushed into Salesforce. Once in Salesforce this information is used to analyze cost and usage for gas or electricity and used in forecast, budgeting, hedging, performance saving etc. This also involved exposing some information to Fellon McCord’s Clients through Client Portal. 
+Environment: Salesforce.com framework, Apex Programming Language, SOQL, Triggers, Visualforce,  Java, JavaScript, Ajax, HTML, JQuery, Google Charts, Force.comIDE, apache ant.
+
+Patni Computers	  		                                 	            since Apr 2008 to Mar2011
+Project 1: ABSS (Automated Baggage Storage System)
+Responsibilities:		
+	Understand and designing the business.
+	Involved to develop the code from UI to Business Object
+	Involved to develop the code from Business Object to UI
+	Involved in presentation layer using JSP, HTML5 and JavaScript.
+
+Description: The objective of the ABSS project is to deliver and Automated Baggage Storage System for the Emirates Mishandled Baggage stores in Dubai.
+
+The ABBS project is to enable a proactive reduction in the number of mishandled bags, a reduction in mishandled baggage costs and to reduce the time that it takes to reunite a mishandled. Bag with it’s rightful owner. It will enable the validation and control of information stored in the World Tracer baggage tracing system and provide for hand held device mobility.
+
+Environment: Java, Servlets, JSP, HTML, Java Script, Weblogic Server, Oracle Server, Ant.
+
+Project 2: Store Application
+Responsibilities:		
+	Involved in Developing User module, which includes User registration, viewing and updating User profile. 
+	Involved in coding to implement search functionality.
+	Responsible for implementation of search by type and search by Name.
+	Done client-side validations using JavaScript.
+	Used all queries write into Properties file and access throughout application.
+
+Description: V-Store is a Tanzania based Company which import goods from U.S and distributes the items under various categories like Laptops, E-Commerce, Tool Kits, Electrical Accessories, DIY Tools, Satellite Cable accessories and Leather Goods. Through this site, the client can take orders against various products from the buyers in quick time.
+Store is a web base application, which maintains the information of the customer by registering in this site. The customer can contact the operator by mail or by phone. Customer can order the products by posting the url, documents to MySQL database, and delivery is provided to the residence.
+
+Environment: Java, Servlets, JSP, HTML, Java Script, Weblogic Server, Oracle Server, Ant.
+
+
